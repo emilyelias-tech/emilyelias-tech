@@ -1,93 +1,99 @@
-<h1 align="center">Hi 👋, I'm Emily Elias</h1>
+<h1 align="center">👋 Olá! Eu sou Emily Elias</h1>
 
 <h3 align="center">
-  💻 Student | Web Development | Technology
+  💻 Estudante de Desenvolvimento de Sistemas | Tecnologia
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emilyelias-tech&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=emilyelias-tech&label=Visualizações%20do%20perfil&color=8A2BE2&style=flat" alt="Visualizações do perfil" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Sobre mim
 
-✨ I'm Emily Elias, a student passionate about technology, programming and web development.
+Olá! Eu sou Emily Elias, estudante apaixonada por tecnologia, programação e desenvolvimento de sistemas.
 
-🎓 Currently studying:
-- 📚 High School with Technical Administration
-- 💻 Technical Course in Systems Development at SENAI
+🎓 Atualmente estudo:
 
-🌱 Currently learning and improving my skills in programming, databases and web development.
+- 📚 Ensino Médio Técnico em Administração
+- 💻 Técnico em Desenvolvimento de Sistemas — SENAI
 
-💡 I'm interested in:
-- Web Development
-- Information Security
-- Cybersecurity
-- Programming
-- Technology
+🌱 Estou sempre buscando aprender novas tecnologias e desenvolver minhas habilidades através de projetos práticos.
 
-🎯 My goal is to keep learning, create real projects and grow as a developer.
+💡 Tenho interesse principalmente em:
+
+- 🌐 Desenvolvimento Web
+- 💻 Programação
+- 🔐 Segurança da Informação
+- 🛡️ Cibersegurança
+- 🗄️ Banco de Dados
+- 🚀 Tecnologia
+
+🎯 Meu objetivo é continuar aprendendo, criar projetos cada vez melhores e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologias
 
-### 💻 Languages
+### 💻 Linguagens e Desenvolvimento
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
 ---
 
-## 🚀 My Projects
+## 🚀 Meus Projetos
 
 ### 📚 Nossa Biblioteca
 
-A private digital library project created to store and organize books and texts.
+Projeto de uma biblioteca digital criada para organizar e armazenar livros e textos.
 
-**Technologies:**
+🛠️ Tecnologias utilizadas:
+
 `HTML` `CSS` `JavaScript` `Supabase`
 
-🔗 [View Project](https://github.com/emilyelias-tech)
+🔗 [Ver projeto](https://github.com/emilyelias-tech)
 
 ---
 
-### 🌐 Web Development Projects
+### 🌐 Projetos de Desenvolvimento Web
 
-Projects created during my studies in Systems Development, focusing on front-end and back-end development.
+Projetos desenvolvidos durante meus estudos de Desenvolvimento de Sistemas, explorando desenvolvimento Front-End, Back-End e banco de dados.
 
-**Technologies:**
+🛠️ Tecnologias:
+
 `HTML` `CSS` `JavaScript` `PHP` `SQL`
 
-🔗 [View my repositories](https://github.com/emilyelias-tech?tab=repositories)
+🔗 [Ver meus repositórios](https://github.com/emilyelias-tech?tab=repositories)
 
 ---
 
-### 🎨 Lulumi / BubuLândia
+### 🎨 Lulumi — BubuLândia
 
-A creative educational animation project focused on children's content, storytelling and technology.
+Projeto criativo voltado para conteúdo infantil educativo, envolvendo criação de personagens, histórias e desenvolvimento de conteúdo digital.
 
-**Concepts:**
-`Creative Development` `Digital Content` `Animation` `Storytelling`
+💡 Conceitos:
+
+`Criação de conteúdo` `Tecnologia` `Animação` `Storytelling`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Minhas estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilyelias-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -96,7 +102,7 @@ A creative educational animation project focused on children's content, storytel
 
 ---
 
-## 📈 My GitHub Activity
+## 📈 Minha atividade no GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emilyelias-tech&theme=tokyo-night"/>
@@ -104,12 +110,53 @@ A creative educational animation project focused on children's content, storytel
 
 ---
 
-## 🧠 Currently Learning
+## 📚 Atualmente aprendendo
 
-```text
-HTML           ████████████████████  Advanced
-CSS            ██████████████████░░  Intermediate
-JavaScript     ████████████░░░░░░░░  Learning
-PHP            ████████████░░░░░░░░  Learning
-SQL            ████████████░░░░░░░░  Learning
-Git & GitHub   ████████████████░░░░  Intermediate
+- 💻 Desenvolvimento Web
+- 🐘 PHP
+- 🗄️ SQL e Banco de Dados
+- ⚡ JavaScript
+- 🔧 Git e GitHub
+- 🔐 Segurança da Informação
+- 🛡️ Cibersegurança
+
+---
+
+## 🎯 Meus objetivos
+
+- 🚀 Melhorar minhas habilidades em programação
+- 💻 Criar projetos cada vez mais completos
+- 🌐 Desenvolver aplicações Web
+- 🗄️ Aprender mais sobre bancos de dados
+- 🔐 Aprofundar meus conhecimentos em Segurança da Informação
+- 🛡️ Aprender mais sobre Cibersegurança
+- 📚 Continuar estudando e evoluindo profissionalmente
+- 💼 Conquistar minha primeira oportunidade na área de tecnologia
+
+---
+
+## 📫 Contato
+
+<p align="left">
+
+<a href="https://github.com/emilyelias-tech">
+<img src="https://img.shields.io/badge/GitHub-emilyelias--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+📧 **E-mail:** seuemail@exemplo.com
+
+💼 **LinkedIn:** Em breve
+
+---
+
+## 💜 Obrigada por visitar meu perfil!
+
+<p align="center">
+  <i>“Cada linha de código é mais um passo na minha jornada na tecnologia.”</i>
+</p>
+
+<p align="center">
+  ⭐ Fique à vontade para explorar meus projetos!
+</p>
