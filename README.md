@@ -83,16 +83,6 @@ Projetos desenvolvidos durante meus estudos de Desenvolvimento de Sistemas, expl
 
 ---
 
-### 🎨 Lulumi — BubuLândia
-
-Projeto criativo voltado para conteúdo infantil educativo, envolvendo criação de personagens, histórias e desenvolvimento de conteúdo digital.
-
-💡 Conceitos:
-
-`Criação de conteúdo` `Tecnologia` `Animação` `Storytelling`
-
----
-
 ## 📊 Minhas estatísticas
 
 <p align="center">
