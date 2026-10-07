@@ -135,18 +135,4 @@ Projetos desenvolvidos durante meus estudos de Desenvolvimento de Sistemas, expl
 
 </p>
 
-📧 **E-mail:** seuemail@exemplo.com
-
-💼 **LinkedIn:** Em breve
-
----
-
-## 💜 Obrigada por visitar meu perfil!
-
-<p align="center">
-  <i>“Cada linha de código é mais um passo na minha jornada na tecnologia.”</i>
-</p>
-
-<p align="center">
-  ⭐ Fique à vontade para explorar meus projetos!
-</p>
+📧 **E-mail:** emilyelias.160@gmail.com
