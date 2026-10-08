@@ -3,11 +3,6 @@
 <h3 align="center">
    Estudante de Desenvolvimento de Sistemas | Tecnologia
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emilyelias-tech&label=Visualizações%20do%20perfil&color=8A2BE2&style=flat" alt="Visualizações do perfil" />
-</p>
-
 ---
 
 ###
