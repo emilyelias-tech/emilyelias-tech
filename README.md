@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá! Eu sou Emily Elias</h1>
+<h1 align="center"> Olá! Eu sou Emily Elias</h1>
 
 <h3 align="center">
-  💻 Estudante de Desenvolvimento de Sistemas | Tecnologia
+   Estudante de Desenvolvimento de Sistemas | Tecnologia
 </h3>
 
 <p align="center">
@@ -12,33 +12,33 @@
 
 ###
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Olá! Eu sou Emily Elias, estudante apaixonada por tecnologia, programação e desenvolvimento de sistemas.
 
-🎓 Atualmente estudo:
+ Atualmente estudo:
 
-- 📚 Ensino Médio Técnico em Administração
-- 💻 Técnico em Desenvolvimento de Sistemas — SENAI
+-  Ensino Médio Técnico em Administração
+-  Técnico em Desenvolvimento de Sistemas — SENAI
 
-🌱 Estou sempre buscando aprender novas tecnologias e desenvolver minhas habilidades através de projetos práticos.
+ Estou sempre buscando aprender novas tecnologias e desenvolver minhas habilidades através de projetos práticos.
 
-💡 Tenho interesse principalmente em:
+ Tenho interesse principalmente em:
 
-- 🌐 Desenvolvimento Web
-- 💻 Programação
-- 🔐 Segurança da Informação
-- 🛡️ Cibersegurança
-- 🗄️ Banco de Dados
-- 🚀 Tecnologia
+-  Desenvolvimento Web
+-  Programação
+-  Segurança da Informação
+-  Cibersegurança
+-  Banco de Dados
+-  Tecnologia
 
-🎯 Meu objetivo é continuar aprendendo, criar projetos cada vez melhores e conquistar minha primeira oportunidade profissional na área de tecnologia.
+ Meu objetivo é continuar aprendendo, criar projetos cada vez melhores e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
-### 💻 Linguagens e Desenvolvimento
+###  Linguagens e Desenvolvimento
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -48,7 +48,7 @@ Olá! Eu sou Emily Elias, estudante apaixonada por tecnologia, programação e d
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### 🔧 Ferramentas
+###  Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -59,13 +59,13 @@ Olá! Eu sou Emily Elias, estudante apaixonada por tecnologia, programação e d
 
 ---
 
-## 🚀 Meus Projetos
+##  Meus Projetos
 
-### 📚 Nossa Biblioteca
+###  Nossa Biblioteca
 
 Projeto de uma biblioteca digital criada para organizar e armazenar livros e textos.
 
-🛠️ Tecnologias utilizadas:
+ Tecnologias utilizadas:
 
 `HTML` `CSS` `JavaScript` `Supabase`
 
@@ -73,7 +73,7 @@ Projeto de uma biblioteca digital criada para organizar e armazenar livros e tex
 
 ---
 
-### 🌐 Projetos de Desenvolvimento Web
+###  Projetos de Desenvolvimento Web
 
 Projetos desenvolvidos durante meus estudos de Desenvolvimento de Sistemas, explorando desenvolvimento Front-End, Back-End e banco de dados.
 
@@ -85,7 +85,7 @@ Projetos desenvolvidos durante meus estudos de Desenvolvimento de Sistemas, expl
 
 ---
 
-## 📊 Minhas estatísticas
+##  Minhas estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilyelias-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -94,47 +94,34 @@ Projetos desenvolvidos durante meus estudos de Desenvolvimento de Sistemas, expl
 
 ---
 
-## 📈 Minha atividade no GitHub
-
+##  Minha atividade no GitHub
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emilyelias-tech&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📚 Atualmente aprendendo
+##  Atualmente aprendendo
 
-- 💻 Desenvolvimento Web
-- 🐘 PHP
-- 🗄️ SQL e Banco de Dados
-- ⚡ JavaScript
-- 🔧 Git e GitHub
-- 🔐 Segurança da Informação
-- 🛡️ Cibersegurança
-
----
-
-## 🎯 Meus objetivos
-
-- 🚀 Melhorar minhas habilidades em programação
-- 💻 Criar projetos cada vez mais completos
-- 🌐 Desenvolver aplicações Web
-- 🗄️ Aprender mais sobre bancos de dados
-- 🔐 Aprofundar meus conhecimentos em Segurança da Informação
-- 🛡️ Aprender mais sobre Cibersegurança
-- 📚 Continuar estudando e evoluindo profissionalmente
-- 💼 Conquistar minha primeira oportunidade na área de tecnologia
+-  Desenvolvimento Web
+-  PHP
+-  SQL e Banco de Dados
+-  JavaScript
+-  Git e GitHub
+-  Segurança da Informação
+-  Cibersegurança
 
 ---
 
-## 📫 Contato
+##  Meus objetivos
 
-<p align="left">
+-  Melhorar minhas habilidades em programação
+-  Criar projetos cada vez mais completos
+-  Desenvolver aplicações Web
+-  Aprender mais sobre bancos de dados
+-  Aprofundar meus conhecimentos em Segurança da Informação
+-  Aprender mais sobre Cibersegurança
+-  Continuar estudando e evoluindo profissionalmente
+-  Conquistar minha primeira oportunidade na área de tecnologia
 
-<a href="https://github.com/emilyelias-tech">
-<img src="https://img.shields.io/badge/GitHub-emilyelias--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-📧 **E-mail:** emilyelias.160@gmail.com
+---
